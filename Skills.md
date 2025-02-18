@@ -6,9 +6,6 @@
 ✅ React Router  
 ✅ Material UI / Tailwind CSS  
 ✅ Axios / Fetch API  
-✅ Responsive Web Design  
-✅ Component-Based Development  
-✅ Form Handling (Formik, React Hook Form)  
 ✅ FastAPI  
 ✅ Python  
 ✅ Pydantic  
