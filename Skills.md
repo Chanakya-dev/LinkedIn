@@ -32,5 +32,3 @@
 ✅ Unit Testing (Jest, Pytest)  
 ✅ Web Security & Authentication  
 ✅ CORS & Middleware Management  
-
-Adding these will showcase your expertise clearly to recruiters. Need help crafting a **LinkedIn headline** or **summary**? 🚀
