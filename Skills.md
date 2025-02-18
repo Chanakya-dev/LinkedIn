@@ -1,4 +1,4 @@
-### **Frontend (React.js)**
+### **Full Stack Development**
 ✅ React.js  
 ✅ JavaScript (ES6+)  
 ✅ TypeScript  
@@ -9,8 +9,6 @@
 ✅ Responsive Web Design  
 ✅ Component-Based Development  
 ✅ Form Handling (Formik, React Hook Form)  
-
-### **Backend (FastAPI & Python)**
 ✅ FastAPI  
 ✅ Python  
 ✅ Pydantic  
@@ -21,8 +19,6 @@
 ✅ Asynchronous Programming (async/await)  
 ✅ Dependency Injection  
 ✅ WebSockets  
-
-### **Full Stack & DevOps**
 ✅ Full Stack Development  
 ✅ API Integration  
 ✅ Docker  
